@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Menu">
+        <file>Menu/1 неделя.jpeg</file>
+        <file>Menu/1 неделя.jpg</file>
+        <file>Menu/2 неделя.jpeg</file>
+    </qresource>
+</RCC>

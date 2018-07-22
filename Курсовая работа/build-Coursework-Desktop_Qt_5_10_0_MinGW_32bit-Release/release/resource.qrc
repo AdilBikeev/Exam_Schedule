@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Фото для проекта/Menu"/>
+    <qresource prefix="/">
+        <file>Фото для проекта/Menu/1 неделя.jpg</file>
+    </qresource>
+</RCC>

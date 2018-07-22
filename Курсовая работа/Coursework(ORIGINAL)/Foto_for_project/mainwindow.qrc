@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Mainwindow">
+        <file>Mainwindow/Фон.jpg</file>
+    </qresource>
+    <qresource prefix="/Mainwindo">
+        <file>Mainwindow/Фон.jpg</file>
+    </qresource>
+</RCC>

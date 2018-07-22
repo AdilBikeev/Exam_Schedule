@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Menu">
+        <file>Menu/Недели.png</file>
+        <file>Menu/Заголовок.jpg</file>
+        <file>Menu/Фон таблиц.jpg</file>
+    </qresource>
+    <qresource prefix="/Mainwindow">
+        <file>Mainwindow/Подтвердить.png</file>
+        <file>Mainwindow/Верхний заголовок.png</file>
+        <file>Mainwindow/Фон.jpg</file>
+    </qresource>
+    <qresource prefix="/List">
+        <file>List/Заголовок.jpg</file>
+        <file>List/Фон.jpg</file>
+    </qresource>
+</RCC>
